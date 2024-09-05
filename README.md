@@ -42,3 +42,11 @@ PPS:
 - [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
 - [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
 - [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
+
+
+---
+Week 2: 5/9/2024
+
+This week I learned how to laser print. I spent almost an hour printing the same design 4 times. Initally I had issues with my design not being recognized as cutable even with red and 0.01 stroke(pro tip: import filled svg and then add stroke to it). The first two designs didnt cut through and the third one broke. So I increased the material width in settings and changed the design a bit to increase thickness in thin areas and viola got the third design perfectly. I wanted to make a Cal keychain because the Cal merchendise is typically very expensive to purchase. I am confident, given a design, I can laser cut with any material in one go quickly. I also helped a friend with her first laser cutting mission.
+
+<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
