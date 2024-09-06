@@ -16,6 +16,14 @@ This week I learned how to laser print. I spent almost an hour printing the same
 <img width="200" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
 
 
+
+
+
+
+
+
+
+
 # Github Background Information & Context
 If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
 
