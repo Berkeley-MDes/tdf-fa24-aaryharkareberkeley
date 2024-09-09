@@ -6,7 +6,7 @@ Welcome to your new GitHub repository!
 
 [week 2](README.md#week-2)
 
-[week 2](README.md#week-3)
+[week 3](README.md#week-3)
 
 ---
 
