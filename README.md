@@ -8,6 +8,12 @@ Welcome to your new GitHub repository!
 
 ---
 
+# Week 3 #
+### September 12th, 2024 ###
+Update on 9/9/2024
+I tried grasshopper over the weekend. I was had used Fusion in college but never knew that design could be encoded in such a workflow. I found it fascinating. I love automation and love making block diagrams. This method of using logical flows to breakdown components of designs essentially means that the design will always work (functionally) if the parameters are entered correctly. I am more interested in AR/VR and UI/UX design, but have to admit that I did find the use of workflows in physical design quite fascinating. Don't know if I would want to master grasshopper, but I would deffinetely want to explore more. I have added a few screenshots below where I tried using a cone for the inner shape of the stand. I also tried changing the outer shape from cylinder to sphere but that didn't work and I dont know why yet.
+---
+
 # Week 2 #
 ### September 5th, 2024 ###
 
