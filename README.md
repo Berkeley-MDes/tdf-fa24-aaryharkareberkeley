@@ -18,6 +18,10 @@ I tried grasshopper over the weekend. I was had used Fusion in college but never
 <img width="400" alt="Tried using cylinder as outer shape for sphere" src="assets/something_went_wrong.png">
 <img width="400" alt="used cone as inner shape" src="assets/cone_inner_shape.png">
 
+It is Monday night and as I was browsing amazon I saw the most amazing laptop stand I have ever seen. I am thinking of making a phone stand like this that works on the principles of balance and center of mass rather than a solid block with a line carved out to keep the phone.
+
+<img width="400" alt="used cone as inner shape" src="assets/cone_inner_shape.png">
+
 ---
 
 # Week 2 #
