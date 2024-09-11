@@ -12,22 +12,22 @@ Welcome to your new GitHub repository!
 
 # Week 3 #
 ### September 12th, 2024 ###
-Update on 9/9/2024
-I tried grasshopper over the weekend. I was had used Fusion in college but never knew that design could be encoded in such a workflow. I found it fascinating. I love automation and love making block diagrams. This method of using logical flows to breakdown components of designs essentially means that the design will always work (functionally) if the parameters are entered correctly. I am more interested in AR/VR and UI/UX design, but have to admit that I did find the use of workflows in physical design quite fascinating. Don't know if I would want to master grasshopper, but I would deffinetely want to explore more. I have added a few screenshots below where I tried using a cone for the inner shape of the stand. I also tried changing the outer shape from cylinder to sphere but that didn't work and I dont know why yet.
+It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I made a rough prototype using figma and laser cut 0.25" wood to make it. It somehow works Lol. If I poke the phone (try to use the touch screen) it wobbles and might fall. It also doesnt work in landscape mode.
 
-<img width="400" alt="Tried using cylinder as outer shape for sphere" src="assets/something_went_wrong.png">
-<img width="400" alt="used cone as inner shape" src="assets/cone_inner_shape.png">
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/Phone_stand_proto_working.jpeg">
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/phone_stand_proto_1.jpeg">
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/hone_stand_proto_1_sketch.png">
+</br>
 
 It is Monday night and as I was browsing amazon I saw the most amazing laptop stand I have ever seen. I am thinking of making a phone stand like this that works on the principles of balance and center of mass rather than a solid block with a line carved out to keep the phone.
 
 <img width="400" alt="used cone as inner shape" src="assets/balance_stand_inspo.png">
+</br>
 
-It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I made a rough prototype using figma and laser cut 0.25" wood to make it. It somehow works Lol. If I poke the phone (try to use the touch screen) it wobbles and might fall. It also doesnt work in landscape mode.
+I tried grasshopper over the weekend. I was had used Fusion in college but never knew that design could be encoded in such a workflow. I found it fascinating. I love automation and love making block diagrams. This method of using logical flows to breakdown components of designs essentially means that the design will always work (functionally) if the parameters are entered correctly. I am more interested in AR/VR and UI/UX design, but have to admit that I did find the use of workflows in physical design quite fascinating. Don't know if I would want to master grasshopper, but I would deffinetely want to explore more. I have added a few screenshots below where I tried using a cone for the inner shape of the stand. I also tried changing the outer shape from cylinder to sphere but that didn't work and I dont know why yet.
 
-<img width="400" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
-<img width="400" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
-<img width="400" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
-
+<img width="400" alt="Tried using cylinder as outer shape for sphere" src="assets/something_went_wrong.png">
+<img width="400" alt="used cone as inner shape" src="assets/cone_inner_shape.png">
 
 ---
 
