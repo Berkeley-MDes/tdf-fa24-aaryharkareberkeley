@@ -22,6 +22,10 @@ It is Monday night and as I was browsing amazon I saw the most amazing laptop st
 
 <img width="400" alt="used cone as inner shape" src="assets/balance_stand_inspo.png">
 
+It's Tuesdau, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I am watching rock balancing videos on Youtube to learn more about counter balancing objects using their own weight and keeeping them at certain angles
+
+<img width="400" alt="used cone as inner shape" src="assets/balancing_rocks_youtube.png">
+
 ---
 
 # Week 2 #
