@@ -22,9 +22,12 @@ It is Monday night and as I was browsing amazon I saw the most amazing laptop st
 
 <img width="400" alt="used cone as inner shape" src="assets/balance_stand_inspo.png">
 
-It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I am watching rock balancing videos on Youtube to learn more about counter balancing objects using their own weight and keeeping them at certain angles
+It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I made a rough prototype using figma and laser cut 0.25" wood to make it. It somehow works Lol. If I poke the phone (try to use the touch screen) it wobbles and might fall. It also doesnt work in landscape mode.
 
-<img width="400" alt="used cone as inner shape" src="assets/balancing_rocks_youtube.png">
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
+
 
 ---
 
