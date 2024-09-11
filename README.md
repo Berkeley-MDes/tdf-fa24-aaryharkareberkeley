@@ -16,7 +16,7 @@ It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d prin
 
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/Phone_stand_proto_working.jpeg">
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/phone_stand_proto_1.jpeg">
-<img width="400" alt="Acrylic material used for laser cutting" src="assets/hone_stand_proto_1_sketch.png">
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/Phone_stand_proto_1_sketch.png">
 </br>
 
 It is Monday night and as I was browsing amazon I saw the most amazing laptop stand I have ever seen. I am thinking of making a phone stand like this that works on the principles of balance and center of mass rather than a solid block with a line carved out to keep the phone.
