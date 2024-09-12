@@ -12,14 +12,14 @@ Welcome to your new GitHub repository!
 
 # Week 3 #
 ### September 12th, 2024 ###
-It's Wednesday, I am watching grasshopper youtube videos and have made this shape. I understood the fundamentals and how operations work. 
+It's Wednesday, I am watching grasshopper youtube videos and have made this shape. I understood the fundamentals and how operations work.</br>
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/Phone_stand_proto_working.jpeg">
 </br>
-I also made a 3d model for the mobile stand so that i dont have to attach the two legs separately. The design allows e to attach my phone while the stand is horizontal and then prop it up. I didn't realise I could do this until Chris Myers pointed it out.
+I also made a 3d model for the mobile stand so that i dont have to attach the two legs separately. The design allows e to attach my phone while the stand is horizontal and then prop it up. I didn't realise I could do this until Chris Myers pointed it out.</br>
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/Phone_stand_proto_working.jpeg">
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/Phone_stand_proto_working.jpeg">
 </br>
-I worked on creating the diagram for the grasshopper file for the mobile phone. 
+I worked on creating the diagram for the grasshopper file for the mobile phone. </br>
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/Phone_stand_proto_working.jpeg">
 </br>
 
