@@ -9,7 +9,14 @@ Welcome to your new GitHub repository!
 [week 3](README.md#week-3)
 
 ---
-
+# Week 4 #
+### September 19th, 2024 ###
+It is monday, I have created my video, here is the link: https://youtu.be/3rTEaj7E28s
+</br>
+I really did not think I could do this in grasshopper, but somehow it worked, took two tries, first tried bruteforce which wasted 2 hours and then used a more nuanced approach. I really loved the problem solving required to use grasshopper.
+</br>
+</br>
+</br>
 # Week 3 #
 ### September 12th, 2024 ###
 It's Wednesday, I am watching grasshopper youtube videos and have made this shape. I understood the fundamentals and how operations work.</br>
