@@ -15,6 +15,12 @@ It is monday, I have created my video, here is the link: https://youtu.be/3rTEaj
 </br>
 I really did not think I could do this in grasshopper, but somehow it worked, took two tries, first tried bruteforce which wasted 2 hours and then used a more nuanced approach. I really loved the problem solving required to use grasshopper.
 </br>
+It is wednesday, Grasshopper is a really versatile tool that allows you to build scalable design. P.S. since I finished the video so early I havent really done anything since monday. I need to make the plant holder again because it has been drooping from the weght of the plant, I did not add any triangle support for the edge. 
+</br>
+It is Thursday and my earlier plant holder project is drooping, so I refined the design and add supports and made it bridge stronger. 
+</br>
+<img width="400" alt="Acrylic material used for laser cutting" src="assets/plant_holder_2.png">
+</br>
 </br>
 </br>
 # Week 3 #
