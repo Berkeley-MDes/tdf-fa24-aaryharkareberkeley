@@ -14,8 +14,10 @@ Welcome to your new GitHub repository!
 
 </br>
 ---
+
 # Week 4 #
 ### September 19th, 2024 ###
+
 It is monday, I have created my video, here is the link: https://youtu.be/3rTEaj7E28s
 </br>
 I really did not think I could do this in grasshopper, but somehow it worked, took two tries, first tried bruteforce which wasted 2 hours and then used a more nuanced approach. I really loved the problem solving required to use grasshopper.
