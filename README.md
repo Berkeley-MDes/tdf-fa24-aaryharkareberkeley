@@ -28,6 +28,7 @@ It is Thursday and my earlier plant holder project is drooping, so I refined the
 </br>
 </br>
 </br>
+
 # Week 3 #
 ### September 12th, 2024 ###
 It's Wednesday, I am watching grasshopper youtube videos and have made this shape. I understood the fundamentals and how operations work.</br>
