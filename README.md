@@ -10,10 +10,23 @@ Welcome to your new GitHub repository!
 
 [week 4](README.md#week-4)
 
+[week 4](README.md#week-5)
+
 
 
 </br>
 ---
+
+# Week 5 #
+### September 26th, 2024 ###
+
+It is THursday, I have created a flowchart of my journey from home to destination using either public transport, walking or uber. The journey consists of data being sent from uber regarding pricing and bart/ac transit sending eta to google. Google claculates total journey time and cost based on all of these variables and shows us on Maps. Based on my preference, I then chose any one of the modes of transportation to reach my destination.
+</br>
+<img width="400" alt="Journey map for transportation ecosystem" src="assets/transportation_ecosystem.png">
+
+</br>
+</br>
+</br>
 
 # Week 4 #
 ### September 19th, 2024 ###
