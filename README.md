@@ -12,10 +12,28 @@ Welcome to your new GitHub repository!
 
 [week 5](README.md#week-5)
 
+[week 6](README.md#week-6)
+
 
 
 </br>
 ---
+
+# Week 6 #
+### October 3rd, 2024 ###
+
+It is Thursday, I really had fun creating the flashing LED project. I added 4 LEDs which would alternative and added a start/stop function on button press. It looked like christmas and was really fun. Later I did two more project, the first one was the publish/subscribe and FSR/Led colour projects. I ran in an issue after I compiled my code the first time for FSR/Led, everything just stopped compiling and I have no idea why. I will update the solution in the next weeks report.
+</br>
+</br>
+<img width="400" alt="Journey map for transportation ecosystem" src="assets/lights_1.png">
+</br>
+<img width="400" alt="Journey map for transportation ecosystem" src="assets/battery_2.png">
+</br>
+<img width="400" alt="Journey map for transportation ecosystem" src="assets/RGB_3.png">
+
+</br>
+</br>
+</br>
 
 # Week 5 #
 ### September 26th, 2024 ###
