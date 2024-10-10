@@ -14,6 +14,8 @@ Welcome to your new GitHub repository!
 
 [week 6](README.md#week-6)
 
+[week 7](README.md#week-7)
+
 
 
 </br>
