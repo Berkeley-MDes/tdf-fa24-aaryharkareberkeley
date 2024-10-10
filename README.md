@@ -19,6 +19,18 @@ Welcome to your new GitHub repository!
 </br>
 ---
 
+# Week 7 #
+### October 10th, 2024 ###
+
+It is Thursday, I was watching harry potter last week, and this week for Studio Foundations we were asked to make an ambient display. I got the idea of making the rememberall ball, essentially a glowing ball that would be connected to google calendar and would shift colours based on whether there is an unpcoming event or not. Me, Sharon and Vivian got together on Tuesday and wrote the project proposal. I drew the system and process diagram while they worked on the text. I am really excited to work on this project. I have also started to work on a personal project of mine which is to create a macro keyboard with programmable keys. I am attempting to make a ergonomic design but the challenge is that perfect ergonomic design looks really bad. Let's see in the coming weeks if I can find a good balance.
+</br>
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/proposal_working.png">
+
+</br>
+</br>
+</br>
+
 # Week 6 #
 ### October 3rd, 2024 ###
 
