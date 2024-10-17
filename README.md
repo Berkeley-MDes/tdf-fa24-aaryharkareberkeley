@@ -31,8 +31,6 @@ It is Thursday, I have been working on two projects, one is the TDF project for 
 </br>
 <img width="400" alt="Working session for project 2 proposal" src="assets/81.jpeg">
 </br>
-<img width="400" alt="Working session for project 2 proposal" src="assets/82.png">
-</br>
 <img width="400" alt="Working session for project 2 proposal" src="assets/83.jpeg">
 </br>
 <img width="400" alt="Working session for project 2 proposal" src="assets/84.jpeg">
