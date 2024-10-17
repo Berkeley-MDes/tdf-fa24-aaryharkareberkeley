@@ -16,10 +16,30 @@ Welcome to your new GitHub repository!
 
 [week 7](README.md#week-7)
 
+[week 8](README.md#week-8)
+
 
 
 </br>
 ---
+
+# Week 8 #
+### October 107h, 2024 ###
+
+It is Thursday, I have been working on two projects, one is the TDF project for which my team is making a remembrall as mentioned in the last weeks report. We have made a lot of progress on it but are still stuck on the google cloud integration. Today I will make the final stacked circuit using prototyping boards and soldering all the wires and boards in a stack to reduce the horizontal dimensions of the circuit to fit in the ball. THe other project that I am working on is a personal project. I am making a customizable micropad with 9 keys, one roller and one oled display. I made a 3d prototype for exploring the dimensions and found that I need to make the key caps larger. I have already made the POC code which allows me to close windows (using the mac shortcut cmd+Q) by pressing the key. I am hoping that by next week I will be able to make a 3x3 keyboard prototype. 
+</br>
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/81.png">
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/82.png">
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/83.png">
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/84.png">
+
+</br>
+</br>
+</br>
 
 # Week 7 #
 ### October 10th, 2024 ###
