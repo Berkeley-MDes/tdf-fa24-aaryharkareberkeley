@@ -24,23 +24,25 @@ Welcome to your new GitHub repository!
 </br>
 ---
 
-# Week 8 #
-### October 107h, 2024 ###
+# Week 9 #
+### October 24th, 2024 ###
 
 It is Thursday, I went home at 1 am last night because I was working on the TDF Project 2 video. I am pretty happy with how the project turned out. For the project requirements we had to add a lot of circuitry which is not actually required for the purpose of replicating a remembrall. I am really proud that my team has decided to refine the project to make a finished version for our portfolios. I have also been working on my personal project which is the micro board. I have added an image of the latest 3d model here. I decided not to go with the OLED dispay to save space and have better battery performance. Instead of the display, I am going forward with using a vertical rotary encoder which will act like a undo/redo knob, along with two touch buttons, one for opening figma and the other for openeing the browser. I will order the remaining electronic components tomorrow. After they arrive, I will move forward with making my PCB.
 </br>
 </br>
-<img width="400" alt="Working session for project 2 proposal" src="assets/91.jpeg">
+<img width="400" alt="Working session for project 2 proposal" src="assets/91.png">
 </br>
-<img width="400" alt="Working session for project 2 proposal" src="assets/92.jpeg">
+<img width="400" alt="Working session for project 2 proposal" src="assets/92.png">
 </br>
-<img width="400" alt="Working session for project 2 proposal" src="assets/93.jpeg">
+<img width="400" alt="Working session for project 2 proposal" src="assets/93.png">
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/94.png">
 </br>
 </br>
 </br>
 
 # Week 8 #
-### October 107h, 2024 ###
+### October 17th, 2024 ###
 
 It is Thursday, I have been working on two projects, one is the TDF project for which my team is making a remembrall as mentioned in the last weeks report. We have made a lot of progress on it but are still stuck on the google cloud integration. Today I will make the final stacked circuit using prototyping boards and soldering all the wires and boards in a stack to reduce the horizontal dimensions of the circuit to fit in the ball. THe other project that I am working on is a personal project. I am making a customizable micropad with 9 keys, one roller and one oled display. I made a 3d prototype for exploring the dimensions and found that I need to make the key caps larger. I have already made the POC code which allows me to close windows (using the mac shortcut cmd+Q) by pressing the key. I am hoping that by next week I will be able to make a 3x3 keyboard prototype. 
 </br>
