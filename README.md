@@ -18,10 +18,26 @@ Welcome to your new GitHub repository!
 
 [week 8](README.md#week-8)
 
+[week 9](README.md#week-9)
 
 
 </br>
 ---
+
+# Week 8 #
+### October 107h, 2024 ###
+
+It is Thursday, I went home at 1 am last night because I was working on the TDF Project 2 video. I am pretty happy with how the project turned out. For the project requirements we had to add a lot of circuitry which is not actually required for the purpose of replicating a remembrall. I am really proud that my team has decided to refine the project to make a finished version for our portfolios. I have also been working on my personal project which is the micro board. I have added an image of the latest 3d model here. I decided not to go with the OLED dispay to save space and have better battery performance. Instead of the display, I am going forward with using a vertical rotary encoder which will act like a undo/redo knob, along with two touch buttons, one for opening figma and the other for openeing the browser. I will order the remaining electronic components tomorrow. After they arrive, I will move forward with making my PCB.
+</br>
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/91.jpeg">
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/92.jpeg">
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/93.jpeg">
+</br>
+</br>
+</br>
 
 # Week 8 #
 ### October 107h, 2024 ###
