@@ -20,9 +20,22 @@ Welcome to your new GitHub repository!
 
 [week 9](README.md#week-9)
 
+[week 10](README.md#week-10)
+
 
 </br>
 ---
+
+# Week 10 #
+### October 31st, 2024 ###
+
+It is Thursday, this week has been a little relaxed since we just finished our project. I have been thinking of using my bluetooth keyboard project for my TDF final project. Jeff mentioned that there are some minimum requirements so I am waiting for them to be anounced so that I can finalise what I want to do with my keyboard. I am really excited to work on AI as well. RAG is a really interesting project. I tried a few flows yesterday on zerowidth.
+</br>
+</br>
+<img width="400" alt="Working session for project 2 proposal" src="assets/101.png">
+</br>
+</br>
+</br>
 
 # Week 9 #
 ### October 24th, 2024 ###
