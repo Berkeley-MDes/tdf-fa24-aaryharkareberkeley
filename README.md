@@ -127,15 +127,15 @@ This week’s LED project underscores the potential for simple, interactive ligh
 </br>
 </br>
 </br>
-Experiement: Blinking LED lights
+Experiement: Blinking LED lights</br></br>
 <img width="400" alt="Experiement: Blinking LED lights" src="assets/RGB_3.png">
 </br>
-</br>
-Experument: Potentiometer
+</br></br>
+Experument: Potentiometer</br></br>
 <img width="400" alt="Experument: Potentiometer" src="assets/lights_1.png">
 </br>
-</br>
-Experiment: Christmas Lights (Extension of Blinking LED Lights)
+</br></br>
+Experiment: Christmas Lights (Extension of Blinking LED Lights)</br></br>
 <img width="400" alt="Experiment: Christmas Lights (Extension of Blinking LED Lights)" src="assets/battery_2.png">
 
 </br>
@@ -153,7 +153,7 @@ It’s Thursday, and I’ve created a flowchart that maps out my journey to a de
 Speculation:
 This exercise in data integration for transportation planning offers a glimpse into the potential of smart city infrastructure, where real-time data can help residents optimize their travel routes. As smart city technologies evolve, we may see a trend toward integrated, adaptive transportation solutions that factor in live data from various sources. This could mean that users no longer need to consult multiple apps but can instead access all transit options from a single, intuitive platform. Such innovations could transform urban living, making commuting more efficient, sustainable, and user-centered.
 </br>
-Example of ecosystem: Uber
+Example of ecosystem: Uber</br></br>
 <img width="400" alt="Example of ecosystem: Uber" src="assets/transportation_ecosystem.png">
 
 </br>
@@ -171,7 +171,7 @@ Speculation:
 Grasshopper's flexibility and scalability highlight its potential for applications in fields that require parametric design, such as architecture and product design. This tool could help create adaptive structures that respond to changing conditions or design requirements, opening the door for innovative approaches in sustainable design. As more industries look to optimize materials and energy use, Grasshopper-like tools could become vital, enabling designers to test and iterate their creations for both functional and aesthetic considerations. This could lead to a future where sustainability is built into the design process from the outset.
 
 </br>
-Personal Project: Plant holder with section for keeping keys and wallet
+Personal Project: Plant holder with section for keeping keys and wallet</br>
 <img width="400" alt="Personal Project: Plant holder with section for keeping keys and wallet" src="assets/plant_holder_2.png">
 </br>
 </br>
@@ -191,18 +191,18 @@ Grasshopper’s workflow-based approach could revolutionize the way designers th
 I tried grasshopper over the weekend. I was had used Fusion in college but never knew that design could be encoded in such a workflow. I found it fascinating. I love automation and love making block diagrams. This method of using logical flows to breakdown components of designs essentially means that the design will always work (functionally) if the parameters are entered correctly. I am more interested in AR/VR and UI/UX design, but have to admit that I did find the use of workflows in physical design quite fascinating. Don't know if I would want to master grasshopper, but I would deffinetely want to explore more. I have added a few screenshots below where I tried using a cone for the inner shape of the stand. I also tried changing the outer shape from cylinder to sphere but that didn't work and I dont know why yet.
 
 </br>
-Tried using cylinder as outer shape for sphere, did not work.
+Tried using cylinder as outer shape for sphere, did not work.</br>
 <img width="400" alt="Tried using cylinder as outer shape for sphere" src="assets/something_went_wrong.png">
 </br>
 </br>
-Used cone as inner shape for the stand.
+Used cone as inner shape for the stand.</br>
 <img width="400" alt="used cone as inner shape" src="assets/cone_inner_shape.png">
 </br>
 </br>
 It is Monday night and as I was browsing amazon I saw the most amazing laptop stand I have ever seen. I am thinking of making a phone stand like this that works on the principles of balance and center of mass rather than a solid block with a line carved out to keep the phone.
 
 </br></br></br>
-Inspiration for phone stand</br>
+Inspiration for phone stand</br></br>
 <img width="400" alt="Inspiration for phone stand" src="assets/balance_stand_inspo.png">
 </br>
 </br>
@@ -210,12 +210,11 @@ Inspiration for phone stand</br>
 </br>
 </br>
 I worked on creating the diagram for the grasshopper file for the mobile phone. </br></br></br>
-Diagramtic analysis of Grasshopper file shard by TJ</br>
+Diagramtic analysis of Grasshopper file shard by TJ</br></br>
 <img width="400" alt="Diagramtic analysis of Grasshopper file shard by TJ" src="assets/block_diagram_mobile_stand.png">
 </br>
 </br>
 It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I made a rough prototype using figma and laser cut 0.25" wood to make it. It somehow works Lol. If I poke the phone (try to use the touch screen) it wobbles and might fall. It also doesnt work in landscape mode.
-
 </br></br>
 Diagram for intial protype based on centroid point</br></br>
 <img width="400" alt="Diagram for intial protype based on centroid point" src="assets/Phone_stand_proto_1_sketch.png">
