@@ -216,19 +216,19 @@ Diagramtic analysis of Grasshopper file shard by TJ</br>
 </br>
 It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I made a rough prototype using figma and laser cut 0.25" wood to make it. It somehow works Lol. If I poke the phone (try to use the touch screen) it wobbles and might fall. It also doesnt work in landscape mode.
 
-</br></br></br>
-Diagram for intial protype based on centroid point</br>
+</br></br>
+Diagram for intial protype based on centroid point</br></br>
 <img width="400" alt="Diagram for intial protype based on centroid point" src="assets/Phone_stand_proto_1_sketch.png">
 </br>
-</br>
-Prototype for phone stand made using laser cut wooden sheet</br>
+</br></br>
+Prototype for phone stand made using laser cut wooden sheet</br></br>
 <img width="400" alt="Prototype for phone stand made using laser cut wooden sheet" src="assets/phone_stand_proto_1.jpeg">
 </br>
-</br>
+</br></br>
 Initial prototype tested using phone
 </br></br>
 <img width="400" alt="Initial prototype tested using phone" src="assets/Phone_stand_proto_working.jpeg">
-</br>
+</br></br>
 
 I also made a 3d model for the mobile stand so that i dont have to attach the two legs separately. The design allows e to attach my phone while the stand is horizontal and then prop it up. I didn't realise I could do this until Chris Myers pointed it out.</br>
 </br></br>
