@@ -55,17 +55,17 @@ It’s Thursday, and last night, I didn’t leave until 1 a.m. because I was bus
 Speculation:
 Reflecting on my micro board design, I believe its modularity and customizability could be incredibly appealing for a range of users. Imagine the potential if this device could be expanded further with AI or automation features; it could become an essential tool for professionals in fields from design to gaming. As the market for compact, specialized devices grows, customizable macro boards like mine could attract attention, especially if they simplify workflows or allow for user-specific programming options. This could represent a future shift in how people approach productivity tools, favoring personalized, small-scale devices that can be tailored to individual needs. With further refinement and integration, such a device could serve as a template for a new category of versatile, modular productivity hardware.
 </br>
-</br>
+</br></br>
+Personal Project: 3D Rendering of MacroBoard</br></br>
 <img width="400" alt="Personal Project: 3D Rendering of Macro Keyboard" src="assets/91.png">
-</br></br>
-Personal Project: 3D Rendering of Macro Keyboard
-I am creating the final circuit using hot glue and protoboards
+</br></br></br>
+I am creating the final circuit using hot glue and protoboards</br></br>
 <img width="400" alt="I am creating the final circuit using hot glue and protoboards" src="assets/92.png">
-</br></br>
-Button input for Project 2
+</br></br></br>
+Button input for Project 2</br></br>
 <img width="400" alt="Button input for Project 2" src="assets/93.png">
-</br></br>
-Project 2 Hero Image
+</br></br></br>
+Project 2 Hero Image</br></br>
 <img width="400" alt="Project 2 Hero Image" src="assets/94.png">
 </br>
 </br>
@@ -82,14 +82,14 @@ It is Thursday, and I’m currently balancing two projects. For the TDF project,
 Speculation:
 If we successfully integrate Google Cloud with the Remembrall, it could pave the way for future ambient devices that seamlessly interact with user schedules, alerts, and other personal data. Imagine a range of ambient displays that subtly remind users of upcoming tasks without disrupting their flow, providing a physical, intuitive connection to their digital lives. The micropad project, on the other hand, has the potential to inspire more DIY, customizable hardware projects tailored for specific workflows. In an era where people crave efficiency and simplicity, user-friendly, programmable tools like this could gain significant traction. With ongoing advancements in connectivity and cloud integration, such devices could one day function as modular productivity hubs, offering users an unprecedented level of personalization in their daily routines.
 </br>
-</br>
-Experiement: Working circuit with inputs and outputs for Project 2
+</br></br>
+Experiement: Working circuit with inputs and outputs for Project 2</br></br>
 <img width="400" alt="Experiement: Working circuit with inputs and outputs for Project 2" src="assets/81.jpeg">
-</br></br>
-Personal Project: Step 1 of Macro Keyboard (Created a one key bluetooth keyboard)
+</br></br></br>
+Personal Project: Step 1 of Macro Keyboard (Created a one key bluetooth keyboard)</br></br>
 <img width="400" alt="Personal Project: Step 1 of Macro Keyboard (Created a one key bluetooth keyboard)" src="assets/83.jpeg">
-</br></br>
-Sketches of design and mechanish of outer shell of Remembrall for Project 2
+</br></br></br>
+Sketches of design and mechanish of outer shell of Remembrall for Project 2</br></br>
 <img width="400" alt="Sketches of design and mechanish of outer shell of Remembrall for Project 2" src="assets/84.jpeg">
 
 </br>
@@ -106,8 +106,8 @@ It is Thursday, and after rewatching the Harry Potter movies last week, I got th
 Speculation:
 The Remembrall project, if executed well, could serve as a prototype for a range of ambient devices that provide timely notifications without the intrusiveness of traditional screens. In a future where technology is integrated seamlessly into everyday life, ambient devices like these could be key players, enhancing productivity and organization without overwhelming users. On the other hand, my ergonomic macro keyboard project represents a growing trend in personalizing hardware for maximum comfort and efficiency. If successful, it could inspire others to create similar ergonomic tools, leading to a shift in how we approach productivity accessories. With the increasing awareness of ergonomic design in tech, more products might emerge that focus on balancing usability and visual appeal, especially in work-from-home environments.
 </br>
-</br>
-Working session with team for Project 2 Proposal Report
+</br></br>
+Working session with team for Project 2 Proposal Report</br></br>
 <img width="400" alt="Working session with team for Project 2 Proposal Report" src="assets/proposal_working.png">
 
 </br>
@@ -152,7 +152,7 @@ It’s Thursday, and I’ve created a flowchart that maps out my journey to a de
 
 Speculation:
 This exercise in data integration for transportation planning offers a glimpse into the potential of smart city infrastructure, where real-time data can help residents optimize their travel routes. As smart city technologies evolve, we may see a trend toward integrated, adaptive transportation solutions that factor in live data from various sources. This could mean that users no longer need to consult multiple apps but can instead access all transit options from a single, intuitive platform. Such innovations could transform urban living, making commuting more efficient, sustainable, and user-centered.
-</br>
+</br></br></br>
 Example of ecosystem: Uber</br></br>
 <img width="400" alt="Example of ecosystem: Uber" src="assets/transportation_ecosystem.png">
 
@@ -171,7 +171,7 @@ Speculation:
 Grasshopper's flexibility and scalability highlight its potential for applications in fields that require parametric design, such as architecture and product design. This tool could help create adaptive structures that respond to changing conditions or design requirements, opening the door for innovative approaches in sustainable design. As more industries look to optimize materials and energy use, Grasshopper-like tools could become vital, enabling designers to test and iterate their creations for both functional and aesthetic considerations. This could lead to a future where sustainability is built into the design process from the outset.
 
 </br>
-Personal Project: Plant holder with section for keeping keys and wallet</br>
+Personal Project: Plant holder with section for keeping keys and wallet</br></br>
 <img width="400" alt="Personal Project: Plant holder with section for keeping keys and wallet" src="assets/plant_holder_2.png">
 </br>
 </br>
@@ -191,11 +191,11 @@ Grasshopper’s workflow-based approach could revolutionize the way designers th
 I tried grasshopper over the weekend. I was had used Fusion in college but never knew that design could be encoded in such a workflow. I found it fascinating. I love automation and love making block diagrams. This method of using logical flows to breakdown components of designs essentially means that the design will always work (functionally) if the parameters are entered correctly. I am more interested in AR/VR and UI/UX design, but have to admit that I did find the use of workflows in physical design quite fascinating. Don't know if I would want to master grasshopper, but I would deffinetely want to explore more. I have added a few screenshots below where I tried using a cone for the inner shape of the stand. I also tried changing the outer shape from cylinder to sphere but that didn't work and I dont know why yet.
 
 </br>
-Tried using cylinder as outer shape for sphere, did not work.</br>
+Tried using cylinder as outer shape for sphere, did not work.</br></br>
 <img width="400" alt="Tried using cylinder as outer shape for sphere" src="assets/something_went_wrong.png">
 </br>
 </br>
-Used cone as inner shape for the stand.</br>
+Used cone as inner shape for the stand.</br></br>
 <img width="400" alt="used cone as inner shape" src="assets/cone_inner_shape.png">
 </br>
 </br>
@@ -204,9 +204,6 @@ It is Monday night and as I was browsing amazon I saw the most amazing laptop st
 </br></br></br>
 Inspiration for phone stand</br></br>
 <img width="400" alt="Inspiration for phone stand" src="assets/balance_stand_inspo.png">
-</br>
-</br>
-<img width="400" alt="Acrylic material used for laser cutting" src="assets/grasshopper_tutorial.png">
 </br>
 </br>
 I worked on creating the diagram for the grasshopper file for the mobile phone. </br></br></br>
