@@ -201,40 +201,39 @@ Used cone as inner shape for the stand.
 </br>
 It is Monday night and as I was browsing amazon I saw the most amazing laptop stand I have ever seen. I am thinking of making a phone stand like this that works on the principles of balance and center of mass rather than a solid block with a line carved out to keep the phone.
 
-</br>
-Inspiration for phone stand
+</br></br></br>
+Inspiration for phone stand</br>
 <img width="400" alt="Inspiration for phone stand" src="assets/balance_stand_inspo.png">
 </br>
 </br>
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/grasshopper_tutorial.png">
 </br>
 </br>
-I worked on creating the diagram for the grasshopper file for the mobile phone. </br></br>
-Diagramtic analysis of Grasshopper file shard by TJ
+I worked on creating the diagram for the grasshopper file for the mobile phone. </br></br></br>
+Diagramtic analysis of Grasshopper file shard by TJ</br>
 <img width="400" alt="Diagramtic analysis of Grasshopper file shard by TJ" src="assets/block_diagram_mobile_stand.png">
 </br>
 </br>
 It's Tuesday, I am sitting in the MDes studio waiting for my plant stand 3d print while I am trying to sketch ideas for the phone stand. I made a rough prototype using figma and laser cut 0.25" wood to make it. It somehow works Lol. If I poke the phone (try to use the touch screen) it wobbles and might fall. It also doesnt work in landscape mode.
 
-</br>
-Diagram for intial protype based on centroid point
+</br></br></br>
+Diagram for intial protype based on centroid point</br>
 <img width="400" alt="Diagram for intial protype based on centroid point" src="assets/Phone_stand_proto_1_sketch.png">
 </br>
 </br>
-Prototype for phone stand made using laser cut wooden sheet
+Prototype for phone stand made using laser cut wooden sheet</br>
 <img width="400" alt="Prototype for phone stand made using laser cut wooden sheet" src="assets/phone_stand_proto_1.jpeg">
 </br>
 </br>
 Initial prototype tested using phone
-</br>
+</br></br>
 <img width="400" alt="Initial prototype tested using phone" src="assets/Phone_stand_proto_working.jpeg">
-</br>
 </br>
 
 I also made a 3d model for the mobile stand so that i dont have to attach the two legs separately. The design allows e to attach my phone while the stand is horizontal and then prop it up. I didn't realise I could do this until Chris Myers pointed it out.</br>
-</br>
+</br></br>
 Stand in horizontal position to place phone</br></br>
-<img width="400" alt="Stand in horizontal position to place phone" src="assets/phone_stand_proto_2_sitting.jpeg"></br></br>
+<img width="400" alt="Stand in horizontal position to place phone" src="assets/phone_stand_proto_2_sitting.jpeg"></br></br></br>
 Stand in vertical position to hold the phone</br></br>
 <img width="400" alt="Stand in vertical position to hold the phone" src="assets/phone_stand_proto_2_standing.jpeg">
 </br>
@@ -251,7 +250,7 @@ This week, I learned to laser cut and spent nearly an hour perfecting my design 
 
 Speculation:
 Laser cutting's accessibility and flexibility make it ideal for personalizing small items like accessories, potentially transforming how people approach custom merchandise. In a world where consumers increasingly value personalization, tools like laser cutters could drive the popularity of DIY production for unique, self-designed items. This shift could encourage a broader movement toward consumer-designed products, with more people creating and customizing goods from home, further democratizing design and production.
-</br>
+</br></br></br>
 Acrylic material used for laser cutting with failures and final cut</br></br>
 <img width="400" alt="Acrylic material used for laser cutting with failures and final cut" src="assets/week_2_img.jpeg">
 
