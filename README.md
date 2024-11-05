@@ -226,15 +226,16 @@ Prototype for phone stand made using laser cut wooden sheet
 </br>
 </br>
 Initial prototype tested using phone
+</br>
 <img width="400" alt="Initial prototype tested using phone" src="assets/Phone_stand_proto_working.jpeg">
 </br>
 </br>
 
 I also made a 3d model for the mobile stand so that i dont have to attach the two legs separately. The design allows e to attach my phone while the stand is horizontal and then prop it up. I didn't realise I could do this until Chris Myers pointed it out.</br>
 </br>
-Stand in horizontal position to place phone
+Stand in horizontal position to place phone</br></br>
 <img width="400" alt="Stand in horizontal position to place phone" src="assets/phone_stand_proto_2_sitting.jpeg"></br></br>
-Stand in vertical position to hold the phone
+Stand in vertical position to hold the phone</br></br>
 <img width="400" alt="Stand in vertical position to hold the phone" src="assets/phone_stand_proto_2_standing.jpeg">
 </br>
 
@@ -251,7 +252,7 @@ This week, I learned to laser cut and spent nearly an hour perfecting my design 
 Speculation:
 Laser cutting's accessibility and flexibility make it ideal for personalizing small items like accessories, potentially transforming how people approach custom merchandise. In a world where consumers increasingly value personalization, tools like laser cutters could drive the popularity of DIY production for unique, self-designed items. This shift could encourage a broader movement toward consumer-designed products, with more people creating and customizing goods from home, further democratizing design and production.
 </br>
-Acrylic material used for laser cutting with failures and final cut
+Acrylic material used for laser cutting with failures and final cut</br></br>
 <img width="400" alt="Acrylic material used for laser cutting with failures and final cut" src="assets/week_2_img.jpeg">
 
 </br>
