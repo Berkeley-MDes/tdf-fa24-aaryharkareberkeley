@@ -37,8 +37,8 @@ It is Thursday, and this week has been a bit more relaxed since we just complete
 Speculation:
 As I look forward, I think there's significant potential for AI to transform how customizable hardware projects like the Bluetooth keyboard could function. If I integrate RAG, the keyboard could adapt to users' specific workflows, offering predictive typing features, task suggestions, or even voice-assisted commands. This could make it much more than a standard keyboard and turn it into a dynamic productivity tool. With the rapid advancement of AI-driven personalized technology, we could see tools like these evolving into essential, adaptable devices that adjust based on real-time user input. Projects like these represent a potential shift toward hardware that intelligently "learns" and adapts to user needs, creating a more streamlined and efficient experience.
 </br>
-</br>
-Exploration of ZeroWidth
+</br></br>
+Exploration of ZeroWidth</br></br>
 <img width="400" alt="Exploration of ZeroWidth" src="assets/101.png">
 </br>
 </br>
