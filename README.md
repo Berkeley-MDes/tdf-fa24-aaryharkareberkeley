@@ -29,7 +29,13 @@ Welcome to your new GitHub repository!
 # Week 10 #
 ### October 31st, 2024 ###
 
-It is Thursday, this week has been a little relaxed since we just finished our project. I have been thinking of using my bluetooth keyboard project for my TDF final project. Jeff mentioned that there are some minimum requirements so I am waiting for them to be anounced so that I can finalise what I want to do with my keyboard. I am really excited to work on AI as well. RAG is a really interesting project. I tried a few flows yesterday on zerowidth.
+Reflection:
+It is Thursday, and this week has been a bit more relaxed since we just completed our project. I've been thinking about potentially using my Bluetooth keyboard project as my final TDF project. Jeff mentioned that there are some minimum requirements for the final project that haven't been announced yet, so I'm waiting to hear what those entail before finalizing my plan for the keyboard project. I'm genuinely excited to work on AI as well, as I've recently been introduced to RAG (Retrieval-Augmented Generation), which I find fascinating. Yesterday, I experimented with a few flows on ZeroWidth to explore its potential applications in this context.
+
+<br><br>
+
+Speculation:
+As I look forward, I think there's significant potential for AI to transform how customizable hardware projects like the Bluetooth keyboard could function. If I integrate RAG, the keyboard could adapt to users' specific workflows, offering predictive typing features, task suggestions, or even voice-assisted commands. This could make it much more than a standard keyboard and turn it into a dynamic productivity tool. With the rapid advancement of AI-driven personalized technology, we could see tools like these evolving into essential, adaptable devices that adjust based on real-time user input. Projects like these represent a potential shift toward hardware that intelligently "learns" and adapts to user needs, creating a more streamlined and efficient experience.
 </br>
 </br>
 <img width="400" alt="Working session for project 2 proposal" src="assets/101.png">
@@ -40,7 +46,13 @@ It is Thursday, this week has been a little relaxed since we just finished our p
 # Week 9 #
 ### October 24th, 2024 ###
 
-It is Thursday, I went home at 1 am last night because I was working on the TDF Project 2 video. I am pretty happy with how the project turned out. For the project requirements we had to add a lot of circuitry which is not actually required for the purpose of replicating a remembrall. I am really proud that my team has decided to refine the project to make a finished version for our portfolios. I have also been working on my personal project which is the micro board. I have added an image of the latest 3d model here. I decided not to go with the OLED dispay to save space and have better battery performance. Instead of the display, I am going forward with using a vertical rotary encoder which will act like a undo/redo knob, along with two touch buttons, one for opening figma and the other for openeing the browser. I will order the remaining electronic components tomorrow. After they arrive, I will move forward with making my PCB.
+Reflection:
+It’s Thursday, and last night, I didn’t leave until 1 a.m. because I was busy working on the TDF Project 2 video. I’m genuinely happy with the outcome, especially since we had to include additional circuitry to achieve the Remembrall functionality, even though it wasn’t essential for its primary purpose. I’m especially proud of my team for deciding to refine and polish this project further to create a portfolio-worthy piece. Separately, I’ve been working on my personal project, which involves designing a micro board. I made some updates, including a new 3D model where I opted not to use an OLED display. This decision was primarily to conserve space and improve battery performance. Instead, I decided to go with a vertical rotary encoder, which will act as an undo/redo knob, alongside two touch buttons—one to open Figma and the other to open the browser. Tomorrow, I plan to order the remaining electronic components, and once they arrive, I’ll begin working on the PCB.
+
+<br><br>
+
+Speculation:
+Reflecting on my micro board design, I believe its modularity and customizability could be incredibly appealing for a range of users. Imagine the potential if this device could be expanded further with AI or automation features; it could become an essential tool for professionals in fields from design to gaming. As the market for compact, specialized devices grows, customizable macro boards like mine could attract attention, especially if they simplify workflows or allow for user-specific programming options. This could represent a future shift in how people approach productivity tools, favoring personalized, small-scale devices that can be tailored to individual needs. With further refinement and integration, such a device could serve as a template for a new category of versatile, modular productivity hardware.
 </br>
 </br>
 <img width="400" alt="Working session for project 2 proposal" src="assets/91.png">
@@ -57,7 +69,13 @@ It is Thursday, I went home at 1 am last night because I was working on the TDF 
 # Week 8 #
 ### October 17th, 2024 ###
 
-It is Thursday, I have been working on two projects, one is the TDF project for which my team is making a remembrall as mentioned in the last weeks report. We have made a lot of progress on it but are still stuck on the google cloud integration. Today I will make the final stacked circuit using prototyping boards and soldering all the wires and boards in a stack to reduce the horizontal dimensions of the circuit to fit in the ball. THe other project that I am working on is a personal project. I am making a customizable micropad with 9 keys, one roller and one oled display. I made a 3d prototype for exploring the dimensions and found that I need to make the key caps larger. I have already made the POC code which allows me to close windows (using the mac shortcut cmd+Q) by pressing the key. I am hoping that by next week I will be able to make a 3x3 keyboard prototype. 
+Reflection:
+It is Thursday, and I’m currently balancing two projects. For the TDF project, my team is creating a Remembrall—a device inspired by the Harry Potter series that acts as an ambient display, changing colors based on Google Calendar events. We’ve made substantial progress, but we’re stuck on the Google Cloud integration, which has been a challenging hurdle. Today, I plan to assemble the final stacked circuit using prototyping boards, soldering all the components to create a compact, vertically-stacked design. This setup will minimize the horizontal footprint, making the circuit compact enough to fit inside the spherical Remembrall enclosure. Separately, I’m working on a personal project: a customizable micropad with nine keys, a roller, and an OLED display. I created a 3D prototype to test the dimensions and realized that I need larger keycaps. I’ve already written a proof-of-concept code that allows me to close windows on macOS with a simple keystroke (Cmd+Q). My goal for next week is to create a working 3x3 keyboard prototype.
+
+<br><br>
+
+Speculation:
+If we successfully integrate Google Cloud with the Remembrall, it could pave the way for future ambient devices that seamlessly interact with user schedules, alerts, and other personal data. Imagine a range of ambient displays that subtly remind users of upcoming tasks without disrupting their flow, providing a physical, intuitive connection to their digital lives. The micropad project, on the other hand, has the potential to inspire more DIY, customizable hardware projects tailored for specific workflows. In an era where people crave efficiency and simplicity, user-friendly, programmable tools like this could gain significant traction. With ongoing advancements in connectivity and cloud integration, such devices could one day function as modular productivity hubs, offering users an unprecedented level of personalization in their daily routines.
 </br>
 </br>
 <img width="400" alt="Working session for project 2 proposal" src="assets/81.jpeg">
@@ -73,7 +91,13 @@ It is Thursday, I have been working on two projects, one is the TDF project for 
 # Week 7 #
 ### October 10th, 2024 ###
 
-It is Thursday, I was watching harry potter last week, and this week for Studio Foundations we were asked to make an ambient display. I got the idea of making the rememberall ball, essentially a glowing ball that would be connected to google calendar and would shift colours based on whether there is an unpcoming event or not. Me, Sharon and Vivian got together on Tuesday and wrote the project proposal. I drew the system and process diagram while they worked on the text. I am really excited to work on this project. I have also started to work on a personal project of mine which is to create a macro keyboard with programmable keys. I am attempting to make a ergonomic design but the challenge is that perfect ergonomic design looks really bad. Let's see in the coming weeks if I can find a good balance.
+Reflection:
+It is Thursday, and after rewatching the Harry Potter movies last week, I got the idea of making a Remembrall for my Studio Foundations class. The assignment was to create an ambient display, and I proposed building a glowing orb that connects to Google Calendar, changing colors based on whether there’s an upcoming event or not. My teammates, Sharon and Vivian, and I met on Tuesday to write up the project proposal. I created the system and process diagrams while they worked on the text. I’m thrilled to bring this concept to life! In addition to the Remembrall, I’ve also started working on a personal project, a macro keyboard with programmable keys. I want the keyboard to have an ergonomic design, but balancing functionality with an appealing aesthetic is challenging.
+
+<br><br>
+
+Speculation:
+The Remembrall project, if executed well, could serve as a prototype for a range of ambient devices that provide timely notifications without the intrusiveness of traditional screens. In a future where technology is integrated seamlessly into everyday life, ambient devices like these could be key players, enhancing productivity and organization without overwhelming users. On the other hand, my ergonomic macro keyboard project represents a growing trend in personalizing hardware for maximum comfort and efficiency. If successful, it could inspire others to create similar ergonomic tools, leading to a shift in how we approach productivity accessories. With the increasing awareness of ergonomic design in tech, more products might emerge that focus on balancing usability and visual appeal, especially in work-from-home environments.
 </br>
 </br>
 <img width="400" alt="Working session for project 2 proposal" src="assets/proposal_working.png">
@@ -85,7 +109,13 @@ It is Thursday, I was watching harry potter last week, and this week for Studio 
 # Week 6 #
 ### October 3rd, 2024 ###
 
-It is Thursday, I really had fun creating the flashing LED project. I added 4 LEDs which would alternative and added a start/stop function on button press. It looked like christmas and was really fun. Later I did two more project, the first one was the publish/subscribe and FSR/Led colour projects. I ran in an issue after I compiled my code the first time for FSR/Led, everything just stopped compiling and I have no idea why. I will update the solution in the next weeks report.
+Reflection:
+It’s Thursday, and I had a lot of fun working on the flashing LED project. I added four LEDs that alternated in sequence and included a start/stop function via a button press, which made the project feel festive, almost like Christmas lights. Afterward, I completed two more assignments: one involving a publish/subscribe model and the other an FSR/LED color project. However, I ran into an issue after initially compiling the FSR/LED code—the system refused to compile further, and I haven’t yet figured out why. I’ll document any solutions I find in next week’s report.
+
+<br><br>
+
+Speculation:
+This week’s LED project underscores the potential for simple, interactive lighting solutions to enhance user experiences in both personal and commercial spaces. As technology progresses, we could see more integration of interactive lighting in areas like home decor and retail, creating engaging environments that react to user inputs. The publish/subscribe model could lead to new IoT applications, allowing devices within smart homes to communicate and trigger responses based on shared data. For example, future applications might include systems that respond to environmental changes, enabling a more interconnected, automated home that adapts to its occupants' needs seamlessly.
 </br>
 </br>
 <img width="400" alt="Journey map for transportation ecosystem" src="assets/lights_1.png">
@@ -101,7 +131,13 @@ It is Thursday, I really had fun creating the flashing LED project. I added 4 LE
 # Week 5 #
 ### September 26th, 2024 ###
 
-It is THursday, I have created a flowchart of my journey from home to destination using either public transport, walking or uber. The journey consists of data being sent from uber regarding pricing and bart/ac transit sending eta to google. Google claculates total journey time and cost based on all of these variables and shows us on Maps. Based on my preference, I then chose any one of the modes of transportation to reach my destination.
+Reflection:
+It’s Thursday, and I’ve created a flowchart that maps out my journey to a destination by either public transport, walking, or using Uber. The system pulls data from Uber (for pricing), BART/AC Transit (for ETAs), and Google (for total journey time and cost). Google then compiles this information and presents it on Google Maps, allowing me to select my preferred mode of transport based on my preferences for cost and travel time.
+
+<br><br>
+
+Speculation:
+This exercise in data integration for transportation planning offers a glimpse into the potential of smart city infrastructure, where real-time data can help residents optimize their travel routes. As smart city technologies evolve, we may see a trend toward integrated, adaptive transportation solutions that factor in live data from various sources. This could mean that users no longer need to consult multiple apps but can instead access all transit options from a single, intuitive platform. Such innovations could transform urban living, making commuting more efficient, sustainable, and user-centered.
 </br>
 <img width="400" alt="Journey map for transportation ecosystem" src="assets/transportation_ecosystem.png">
 
@@ -111,16 +147,13 @@ It is THursday, I have created a flowchart of my journey from home to destinatio
 
 # Week 4 #
 ### September 19th, 2024 ###
+Reflection:
+It’s Monday, and I’ve just finished creating a video demonstrating a Grasshopper project. Here’s the video link: https://youtu.be/3rTEaj7E28s. Initially, I tried a brute-force approach that cost me about two hours, but switching to a more nuanced method eventually worked. I also refined my plant holder design after noticing it was drooping from the plant’s weight due to a lack of structural supports. I adjusted the design to include stronger supports, making it more durable and stable.
 
-It is monday, I have created my video, here is the link: https://youtu.be/3rTEaj7E28s
-I really did not think I could do this in grasshopper, but somehow it worked, took two tries, first tried bruteforce which wasted 2 hours and then used a more nuanced approach. I really loved the problem solving required to use grasshopper.
+<br><br>
 
-</br></br>
-
-It is wednesday, Grasshopper is a really versatile tool that allows you to build scalable design. P.S. since I finished the video so early I havent really done anything since monday. I need to make the plant holder again because it has been drooping from the weght of the plant, I did not add any triangle support for the edge. 
-</br></br>
-
-It is Thursday and my earlier plant holder project is drooping, so I refined the design and add supports and made it bridge stronger. 
+Speculation:
+Grasshopper's flexibility and scalability highlight its potential for applications in fields that require parametric design, such as architecture and product design. This tool could help create adaptive structures that respond to changing conditions or design requirements, opening the door for innovative approaches in sustainable design. As more industries look to optimize materials and energy use, Grasshopper-like tools could become vital, enabling designers to test and iterate their creations for both functional and aesthetic considerations. This could lead to a future where sustainability is built into the design process from the outset.
 
 </br>
 
@@ -131,7 +164,15 @@ It is Thursday and my earlier plant holder project is drooping, so I refined the
 
 # Week 3 #
 ### September 12th, 2024 ###
-It's Wednesday, I am watching grasshopper youtube videos and have made this shape. I understood the fundamentals and how operations work.</br>
+Reflection:
+Throughout this week, I explored Grasshopper via YouTube tutorials and successfully created a phone stand design. Initially, my model lacked stability, but with feedback from Chris Myers, I adjusted the design. I’ve also been working on an ergonomic macro keyboard with programmable keys, experimenting with different designs that balance functionality and aesthetics. Separately, I created a diagram for the Grasshopper mobile stand file, tested a rough prototype for stability, and experimented with balance-based designs inspired by a laptop stand I saw on Amazon.
+
+<br><br>
+
+Speculation:
+Grasshopper’s workflow-based approach could revolutionize the way designers think about structure and design, enabling them to create functional, adaptable designs through parametric adjustments. In the future, this method could become commonplace, allowing designers to create customized, user-friendly solutions. For my ergonomic keyboard, achieving both functionality and aesthetics could serve as a model for future products that prioritize user comfort without compromising design appeal. As ergonomic technology becomes more accessible, we might see increased demand for customizable products that meet individual needs for both productivity and physical well-being.
+</br>
+</br>
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/grasshopper_tutorial.png">
 </br>
 I also made a 3d model for the mobile stand so that i dont have to attach the two legs separately. The design allows e to attach my phone while the stand is horizontal and then prop it up. I didn't realise I could do this until Chris Myers pointed it out.</br>
@@ -163,52 +204,17 @@ I tried grasshopper over the weekend. I was had used Fusion in college but never
 
 # Week 2 #
 ### September 5th, 2024 ###
+</br>
+Reflection:
+This week, I learned to laser cut and spent nearly an hour perfecting my design through multiple attempts. Initially, I faced issues with the design being unrecognized as a cuttable path, even with correct stroke settings. After troubleshooting, I successfully cut a Cal keychain. Given the expense of official Cal merchandise, this was a satisfying achievement. I also helped a friend with her first laser-cutting project, which was a rewarding experience.
 
-This week I learned how to laser print. I spent almost an hour printing the same design 4 times. Initally I had issues with my design not being recognized as cutable even with red and 0.01 stroke(pro tip: import filled svg and then add stroke to it). The first two designs didnt cut through and the third one broke. So I increased the material width in settings and changed the design a bit to increase thickness in thin areas and viola got the third design perfectly. I wanted to make a Cal keychain because the Cal merchendise is typically very expensive to purchase. I am confident, given a design, I can laser cut with any material in one go quickly. I also helped a friend with her first laser cutting mission.
+<br><br>
+
+Speculation:
+Laser cutting's accessibility and flexibility make it ideal for personalizing small items like accessories, potentially transforming how people approach custom merchandise. In a world where consumers increasingly value personalization, tools like laser cutters could drive the popularity of DIY production for unique, self-designed items. This shift could encourage a broader movement toward consumer-designed products, with more people creating and customizing goods from home, further democratizing design and production.
 
 <img width="400" alt="Acrylic material used for laser cutting" src="assets/week_2_img.jpeg">
 
 </br>
 </br>
-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-</br>
-</br>
-</br>
-</br>
-</br>
-
-# Github Background Information & Context
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
-
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link!  As a start, feel free to simply add images to the `/assets` folder, which is located [here](/assets). 
-
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
-
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
-
-# Week 1: Example Report 1 #
-## Week of 09/05/2024
-
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
-
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
-
----
-
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
-
-Excited to work with you,
-your TDF teaching team
-
-PS: let us know if you have any questions!!
-
-PPS: 
-
-## Quick Links, compiled here for your convenience: ##
-
-- [TDF Wiki](https://github.com/Berkeley-MDes/24f-desinv-202/wiki) - the ultimate source for truth and information about the course and assignments
-- [Google Drive Folder](https://drive.google.com/drive/u/0/folders/1DJ1b6sSDwHXX6NRcQYt10ivyQSgU0ND6) - slides and other resources
-- [bCourses](https://bcourses.berkeley.edu/courses/1537533) - where the grading happens
 
