@@ -2,29 +2,55 @@
 Welcome to your new GitHub repository! 
 
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[Week 1](README.md#week-1-example-report-1)
 
-[week 2](README.md#week-2)
+[Week 2](README.md#week-2)
 
-[week 3](README.md#week-3)
+[Week 3](README.md#week-3)
 
-[week 4](README.md#week-4)
+[Week 4](README.md#week-4)
 
-[week 5](README.md#week-5)
+[Week 5](README.md#week-5)
 
-[week 6](README.md#week-6)
+[Week 6](README.md#week-6)
 
-[week 7](README.md#week-7)
+[Week 7](README.md#week-7)
 
-[week 8](README.md#week-8)
+[Week 8](README.md#week-8)
 
-[week 9](README.md#week-9)
+[Week 9](README.md#week-9)
 
-[week 10](README.md#week-10)
+[Week 10](README.md#week-10)
+
+[Week 11](README.md#week-11)
 
 
 </br>
 ---
+
+# Week 11 #
+### Nov 7th, 2024 ###
+
+Reflection:
+This week, I focused on further developing my work on ZeroWidth by creating my own AI agent. This AI agent can “drink” beers and become progressively more intoxicated with each beer, affecting its responses. The concept could potentially evolve into a full application, serving as a “Drinking Buddy” or even a “Drunk Therapist.” Writing the system prompt to accurately simulate intoxication levels was a significant challenge—I spent over an hour refining it. I also used ChatGPT to rewrite the system prompt, and after some iterations, it finally worked. This has been an incredibly fun project; I can’t help but laugh whenever I read the AI’s responses at different levels of “drunkenness.”
+
+<br>
+
+Speculation:
+Looking ahead, my next step will be to streamline the process by reducing the number of GPT agents from three to one to save both time and cost. I’m also considering creating a knowledge base to give the AI a more friendly, conversational tone—something that makes it feel more like a familiar friend. Another goal is to incorporate a voice component using OpenAI’s TTS model, which could add a unique element to the experience. Training the AI to speak with slurred speech and respond with “drunk” intonations based on the text would be an exciting challenge. If successful, this could lead to applications beyond entertainment, such as enhancing virtual companion or AI-driven role-play scenarios. I’m eager to see how these ideas develop in the coming weeks.
+</br>
+</br></br>
+System prompt to make the AI agent progressively more drunk</br></br>
+<img width="400" alt="System prompt to make the AI agent progressively more drunk" src="assets/113.png">
+</br></br></br>
+AI Agent response after having 15 beers</br></br>
+<img width="400" alt="AI Agent response after having 15 beers" src="assets/112.png">
+</br></br></br>
+Diagramatic analysis of my AI agent</br></br>
+<img width="400" alt="Diagramatic analysis of my AI agent" src="assets/111.png">
+</br>
+</br>
+</br>
 
 # Week 10 #
 ### October 31st, 2024 ###
