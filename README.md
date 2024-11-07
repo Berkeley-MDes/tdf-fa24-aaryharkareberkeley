@@ -1,7 +1,7 @@
 # Hello DES INV 202 Student!
 Welcome to your new GitHub repository! 
 
-# Outline
+# Index
 [Week 1](README.md#week-1-example-report-1)
 
 [Week 2](README.md#week-2)
