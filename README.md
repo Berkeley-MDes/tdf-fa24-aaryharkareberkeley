@@ -46,10 +46,10 @@ Looking forward, I believe that if we manage to implement the multicam setup wit
 </br>
 </br></br>
 Photo of XR Iphone projec</br></br>
-<img width="400" alt="Photo of XR Iphone project" src="assets/113.png">
+<img width="400" alt="Photo of XR Iphone project" src="assets/121.png">
 </br></br></br>
 Formula for Calculating Composite Contrast Score for fonts (Work in progress)</br></br>
-<img width="400" alt="Formula for Calculating Composite Contrast Score for fonts (Work in progress)" src="assets/112.png">
+<img width="400" alt="Formula for Calculating Composite Contrast Score for fonts (Work in progress)" src="assets/122.png">
 </br>
 </br>
 </br>
