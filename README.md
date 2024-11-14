@@ -28,6 +28,30 @@ Welcome to your new GitHub repository!
 </br>
 ---
 
+# Week 12 #
+### Nov 14th, 2024 ###
+
+Reflection:
+This week, without a TDF submission deadline, I focused my time on two ongoing elective projects. The first project involves using an iPhone’s native camera to create a stereoscopic passthrough feed, enabling the display of AR objects in real-world environments. This project has been challenging due to hardware constraints imposed by Apple, which has required us to experiment with multiple approaches to overcome these limitations. Currently, I’m exploring the use of Aruco markers and a multicam setup to achieve our goals. It’s a complex task, but I’m hopeful that we’ll be able to implement a solution that meets our project requirements.
+
+My second project centers on mathematically quantifying visual hierarchy and contrast to create a framework that automates the process of establishing visual hierarchy in UI design. I believe this work could lead to a framework that streamlines the development of basic UI elements, making the design process more efficient. Prof. Dubberly has been providing valuable insights on this project, and I’m considering turning it into a research paper. I’ve been working late nights at Jacobs Hall, often from 9 p.m. until midnight, when the space is quiet and free from distractions, allowing me to focus deeply on my work.
+
+<br>
+
+Speculation:
+Looking forward, I believe that if we manage to implement the multicam setup with Aruco markers, it could open up new possibilities for AR applications on iPhones, even with the hardware limitations. This could pave the way for more immersive AR experiences without requiring specialized hardware. In terms of the UI hierarchy project, creating a framework for automating visual hierarchy could significantly impact design tools, making them more accessible to non-designers and optimizing workflows for professionals. This could lead to a future where fundamental UI principles are embedded into design software, allowing for automated yet visually coherent layouts that adhere to established design standards.
+
+</br>
+</br></br>
+Photo of XR Iphone projec</br></br>
+<img width="400" alt="Photo of XR Iphone project" src="assets/113.png">
+</br></br></br>
+Formula for Calculating Composite Contrast Score for fonts (Work in progress)</br></br>
+<img width="400" alt="Formula for Calculating Composite Contrast Score for fonts (Work in progress)" src="assets/112.png">
+</br>
+</br>
+</br>
+
 # Week 11 #
 ### Nov 7th, 2024 ###
 
