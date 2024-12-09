@@ -65,6 +65,35 @@ Working BLE transmition</br></br>
 </br>
 </br>
 
+# Week 13 #
+### Nov 21st, 2024 ###
+
+Reflection:
+This week, I began work on my final project, Momlog (Moment Log). The project involves creating a wearable necklace equipped with a camera that captures photos when the user is happy. The captured data will then be analyzed and displayed on a connected web application. The project has two key components: the physical prototype of the necklace and the web app for data visualization.
+
+My role in the project is focused on developing the backend for the device. I have already created the backend and frontend code for the web app to test the OpenAI connection, which is functioning as intended. Currently, I’m waiting for my teammates to complete their respective parts so I can integrate all the codes into a cohesive system.
+<br>
+
+Speculation:
+Looking ahead, the integration phase will be critical for ensuring the functionality and smooth interaction between the physical device and the web app. Once complete, Momlog has the potential to not only capture and analyze happy moments but also provide insights into the emotional patterns of users. This could lead to interesting applications in mental health and wellness tracking, particularly as wearables become more prominent in personal health management. I aim to further refine the backend to ensure scalability and efficiency once the prototype is fully assembled.
+
+</br>
+</br></br>
+Photo of working web app</br></br>
+<img width="400" alt="Photo of working web app" src="assets/131.jpeg">
+</br></br></br>
+System prompt for openai GPT 4o in bakcend using python</br></br>
+<img width="400" alt="System prompt for openai GPT 4o in bakcend using python" src="assets/132.png">
+</br></br>
+Process Diagram</br></br>
+<img width="400" alt="Process Diagram" src="assets/133.png">
+</br></br></br>
+System Diagram</br></br>
+<img width="400" alt="System Diagram" src="assets/134.png">
+</br>
+</br>
+</br>
+
 
 # Week 12 #
 ### Nov 14th, 2024 ###
