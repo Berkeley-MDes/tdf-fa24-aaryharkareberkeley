@@ -28,35 +28,39 @@ Welcome to your new GitHub repository!
 
 [Week 13](README.md#week-13)
 
+[Week 14](README.md#week-14)
+
 
 </br>
 ---
 
-# Week 13 #
-### Nov 21st, 2024 ###
+# Week 14 #
+### Dec 5th, 2024 ###
 
 Reflection:
-This week, I began work on my final project, Momlog (Moment Log). The project involves creating a wearable necklace equipped with a camera that captures photos when the user is happy. The captured data will then be analyzed and displayed on a connected web application. The project has two key components: the physical prototype of the necklace and the web app for data visualization.
+This week, I completed Momlog (Moment Log), our final project. My contributions encompassed nearly every aspect of the development process, including:
 
-My role in the project is focused on developing the backend for the device. I have already created the backend and frontend code for the web app to test the OpenAI connection, which is functioning as intended. Currently, I’m waiting for my teammates to complete their respective parts so I can integrate all the codes into a cohesive system.
+Writing the Arduino code for the wearable necklace.
+Implementing BLE (Bluetooth Low Energy) logic to enable communication between the device and the web app.
+Developing both the frontend and backend for the web app.
+This project proved to be particularly challenging due to network restrictions at Berkeley. I had to change my approach six times before finally getting the system to work seamlessly using BLE. Additionally, I integrated Zerowidth into the project as an intermediary for handling OpenAI queries instead of directly hitting the OpenAI API, which improved reliability and efficiency.
+
+Despite not being a programmer, I took on and successfully executed this technical challenge, and I’m genuinely proud of the outcome. This project stands as a testament to my persistence, adaptability, and ability to learn new skills under pressure.
+
 <br>
 
 Speculation:
-Looking ahead, the integration phase will be critical for ensuring the functionality and smooth interaction between the physical device and the web app. Once complete, Momlog has the potential to not only capture and analyze happy moments but also provide insights into the emotional patterns of users. This could lead to interesting applications in mental health and wellness tracking, particularly as wearables become more prominent in personal health management. I aim to further refine the backend to ensure scalability and efficiency once the prototype is fully assembled.
-
+Momlog is now functional, but there is potential to further refine and scale the system. For instance, expanding its compatibility with other devices and exploring additional AI-based analysis features could enhance its utility. This project also gave me deeper insights into programming and hardware integration, which I can leverage in future interdisciplinary projects.
 </br>
 </br></br>
-Photo of working web app</br></br>
-<img width="400" alt="Photo of working web app" src="assets/131.jpeg">
+Final working frontend with bakcend of MomLog</br></br>
+<img width="400" alt="Final working frontend with bakcend of MomLog" src="assets/141.jpeg">
 </br></br></br>
-System prompt for openai GPT 4o in bakcend using python</br></br>
-<img width="400" alt="System prompt for openai GPT 4o in bakcend using python" src="assets/132.png">
+Working Zerowidth flow for image analysis</br></br>
+<img width="400" alt="Working Zerowidth flow for image analysis" src="assets/142.png">
 </br></br>
-Process Diagram</br></br>
-<img width="400" alt="Process Diagram" src="assets/133.png">
-</br></br></br>
-System Diagram</br></br>
-<img width="400" alt="System Diagram" src="assets/134.png">
+Working BLE transmition</br></br>
+<img width="400" alt="Working BLE transmition" src="assets/143.png">
 </br>
 </br>
 </br>
